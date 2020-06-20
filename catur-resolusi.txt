@@ -1,5 +1,5 @@
 Catur resolusi
 -Resolusi 1
 -Resolusi 2
--Resolusi 3
 -resolusi 4 bercita-citamembuat program
+-resolusi 5
